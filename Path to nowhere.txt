@@ -1,0 +1,5 @@
+payload:
+  - '+.x1jp-prod-all.shziyi.com'
+  - '+.xoneoversea-hotupdatecdn.shziyi.com'
+  - '+.apm-oversea.shziyi.com'
+  - '+.api-oversea.shziyi.com'
