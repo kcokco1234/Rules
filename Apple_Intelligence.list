@@ -1,0 +1,7 @@
+# > Apple_Intelligence
+DOMAIN,http://apple-relay.apple.com
+DOMAIN,http://cp4.cloudflare.com
+DOMAIN,http://apple-relay.fastly-edge.com
+DOMAIN,http://apple-relay.cloudflare.com
+DOMAIN-SUFFIX,http://smoot.apple.com
+DOMAIN,http://guzzoni.apple.com
